@@ -1,0 +1,23 @@
+{
+  "name": "Weather-App",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HachimDev/WeatherApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HachimDev/WeatherApp/issues"
+  },
+  "homepage": "https://github.com/HachimDev/WeatherApp#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
